@@ -1,1 +1,3 @@
-console.log('hellop')
+function name(params) {
+    console.log('hello'); 
+}
